@@ -1,0 +1,17 @@
+{
+  "name": "hw_interview",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "1.15.3",
+    "jest": "^23.6.0"
+  },
+  "scripts": {
+    "test": "jest --ci",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mathjs": "^5.3.1"
+  }
+}
