@@ -12,6 +12,6 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "mathjs": "^5.3.1"
+    "mathjs": "^7.5.1"
   }
 }
